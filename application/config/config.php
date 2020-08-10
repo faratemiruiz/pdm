@@ -8,6 +8,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 =======
 | Base Site URL 
 >>>>>>> 1d10f45926f5550b78a80c1fa210942c622bbc8e
+
+esta bosta no anda 
 |--------------------------------------------------------------------------
 |
 | URL to your CodeIgniter root. Typically this will be your base URL,
